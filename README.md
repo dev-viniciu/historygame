@@ -1,2 +1,3 @@
-# historygame
-Um game focado em criar histórias inesquecíveis com seus amigos.
+# 🎭 HistoryGame 🎲
+
+✨ Um game focado em criar histórias inesquecíveis com seus amigos! 📖✨
