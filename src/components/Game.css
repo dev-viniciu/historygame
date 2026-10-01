@@ -1,0 +1,16 @@
+.btn-emoji{
+    background-color: rgb(221, 238, 65);
+    border-radius: 25px;
+}
+.p-emoji{
+    font-size: 200px;
+}
+.game{
+    min-width: 100vh;
+    min-height: 100vh;
+    background-color: rgb(241, 243, 138);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
